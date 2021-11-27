@@ -2,7 +2,7 @@
 
 Create a function that formats an 7 digit phone number.
 
-Acceptance Criteria:
+**Acceptance Criteria:**
 
 - It should not accept any characters beside a numbers (0 - 9)
 - When 1 digit is enter, it should be preceded by `(`

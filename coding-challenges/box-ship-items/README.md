@@ -2,7 +2,7 @@
 
 Create a function that will pack and ship products by box size and type.
 
-Acceptance Criteria:
+**Acceptance Criteria:**
 
 - Macbooks and bluetooth speaker should be packed in large boxes that hold one item each.
 - Cameras and headphones should be packed in medium boxes that hold two items of the same type.
